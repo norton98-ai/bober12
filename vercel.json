@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://king-route-use.com/l/69b01d5618945d8fd00418f2",
+      "permanent": false
+    }
+  ]
+}
